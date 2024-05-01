@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Research : As a student who is pursuing a master's degree in Hydraulic Engineering, I am trying to discover a more creative fusion between Data Science and Hydrogeology. My main interests focus on model-data integration for hydrogeology, deep learning-based inverse methods for estimating groundwater parameters .                   
+Previously : I received my Bachelor’s degree in Water conservancy and Hydraulic Engineering from Northwest A&F University
+
 # This page is Xun's academic webpage, but still under construction...
 
 # 🔥 News
