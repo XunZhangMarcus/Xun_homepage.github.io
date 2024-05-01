@@ -17,18 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This page is still under construction...
+# This page is Xun's academic webpage, but still under construction...
 
 # 🔥 News
 
-
 # 📝 Publications 
-
 
 # 🎖 Honors and Awards
 
 # 📖 Educations
-
-# 💬 Invited Talks
 
 # 💻 Internships
