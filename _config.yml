@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xun Zhang"
+  name             : "Xun Zhang(张洵)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tongji University"
   location         : "Shanghai, China"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "2232324@tongji.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xun-Zhang-43"
   uri              :
   bitbucket        :
   codepen          :
