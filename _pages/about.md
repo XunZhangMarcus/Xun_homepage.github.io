@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+**About me**: 
 - Hello there! I'm Xun, currently a M.S. candidate (3th year) in Hydraulic Engineering at Tongji University. I plan to defend my dissertation in June 2024. 
 
 - My academic journey began with a Bachelor's degree in Water Conservancy and Hydraulic Engineering from Northwest A&F University, where I studied everything related to hydraulic engineering complex and its interaction with the environment.
@@ -27,7 +28,7 @@ redirect_from:
 
 - Feel free to connect with me to discuss research, collaboration, or any exciting opportunities!
 
-**Fun facts about me**: 
+**Fun facts**: 
 - If you don't see Xun in the office, he is probably playing guitar, listening to music, reading books, or playing basketball.
 - Xun was once the guitarist for the band named Vodka-Filled Ashtray.
 
