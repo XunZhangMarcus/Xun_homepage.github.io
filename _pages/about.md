@@ -29,7 +29,7 @@ redirect_from:
 
 **Fun facts about me**: 
 - If you don't see Xun in the office, he is probably playing guitar, listening to music, reading books, or playing basketball.
-- Xun was once the guitarist for the band Vodka-Filled Ashtray (VFA).
+- Xun was once the guitarist for the band named Vodka-Filled Ashtray.
 
 # 💻 Current Research Interest
 Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep Learning and Generative AI
