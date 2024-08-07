@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
     
-  - title: "Current Research Interest"
-    url: "/#-current-research-interest"
-    
   - title: "News"
     url: "/#-news"
 
@@ -18,8 +15,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "A Video of Me Explaining My Research"
-    url: "/#-video"
+  #### - title: "A Video of Me Explaining My Research"
+  #### url: "/#-video"
 
   - title: "My Vision for Future Research"
     url: "/#-vision"
