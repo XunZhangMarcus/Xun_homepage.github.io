@@ -43,7 +43,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - **X. Zhang**, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, Journal of Hydrology, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
 
 # 💧 Hydro90
-<div class='paper-box'><div class='paper-box-image'><img src='images/hydro90.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/hydro90.png' alt="Hydro90" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   **Hydro90** was established in June 2020 with the aim of fostering communication among young hydrologists, promoting the latest research achievements of the new generation in hydrology, and sharing the latest information in related fields (conferences, job opportunities, new technologies, etc.). 
   I joined Hydro90 as an editorial board member in September 2023.
@@ -52,10 +52,10 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 
 # 🎖 Honors and Awards
 - *2019-2021* Chunyu Scholarship
-- "China Optics Valley · Huawei Cup" Graduate Mathematical Modeling Competition, National Second Prize **(Top 13.36%)**
-- National Undergraduate Mathematical Modeling Competition, Shaanxi Province Second Prize **(Top 20%)**
-- National College Students Mathematics Competition, National First Prize **(Top 8%)**
-- National College Students English Competition, Second Prize **(Top 3%)**
+- *2022* "China Optics Valley · Huawei Cup" Graduate Mathematical Modeling Competition, National Second Prize **(Top 13.36%)**
+- *2021* National College Students Mathematics Competition, National First Prize **(Top 8%)**
+- *2021* National College Students English Competition, Second Prize **(Top 3%)**
+- *2020* National Undergraduate Mathematical Modeling Competition, Shaanxi Province Second Prize **(Top 20%)**
 
 # 📖 Educations
 - *2022.06 - Present*, Master, College of Civil engineering, Tongji Univeristy, Shanghai.
