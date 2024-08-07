@@ -64,8 +64,8 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2022.06 - Present*, Master, College of Civil engineering, Tongji Univeristy, Shanghai.
 - *2018.09 - 2022.06*, Undergraduate, College of water resources and architectural engineering, Northwest A&F University, Yangling.
 
-# 🎥 A Video of Me Explaining My Research
-Awaiting upload...
+<!-- # 🎥 A Video of Me Explaining My Research
+Awaiting upload...  -->
 
 # 🫡 My Vision for Future Research
 
