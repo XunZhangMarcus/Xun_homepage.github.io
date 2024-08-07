@@ -2,21 +2,24 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
+    
+  - title: "Current Research Interest"
+    url: "/#-current-research-interest"
+    
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Publications and Conferences"
+    url: "/#-publications-and-conferences"
 
+  - title: "Hydro90"
+    url: "/#-hydro90"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "A Video of Me Explaining My Research"
+    url: "/#-video"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "My Vision for Future Research"
+    url: "/#-vision"
