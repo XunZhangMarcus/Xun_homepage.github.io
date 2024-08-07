@@ -27,7 +27,7 @@ redirect_from:
 
 - Feel free to connect with me to discuss research, collaboration, or any exciting opportunities!
 
-**Fun facts**: 
+**Fun facts about me**: 
 - If you don't see Xun in the office, he is probably playing guitar, listening to music, reading books, or playing basketball.
 - Xun was once the guitarist for the band Vodka-Filled Ashtray (VFA).
 
@@ -38,14 +38,14 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2023.07*: &nbsp; I participated in the Zhejiang University SDG Global Summer School, where I learned about carbon neutrality and met new friends and researchers!
 - *2024.06*: &nbsp;🎉🎉 My [first paper](https://doi.org/10.1016/j.jhydrol.2024.131540) is now online. Click to view.
 - *2024.07*: &nbsp; I participated in the Tongji University Summer School program "Climate Change and Global Governance - Exploring Norway and the Arctic," where I traveled to the Svalbard island, Arctic! I made many valuable friends and learned a lot of new knowledge about hydrology and the environment. Super joyful experience! Grateful for everyone I've met.
-- 
+
 # 📝 Publications 
 - **X. Zhang**, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, Journal of Hydrology, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
 
 # 💧 Hydro90
 <div class='paper-box'><div class='paper-box-image'><img src='images/hydro90.png' alt="Hydro90" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-  **Hydro90** was established in June 2020 with the aim of fostering communication among young hydrologists, promoting the latest research achievements of the new generation in hydrology, and sharing the latest information in related fields (conferences, job opportunities, new technologies, etc.). 
+  Hydro90 was established in June 2020 with the aim of fostering communication among young hydrologists, promoting the latest research achievements of the new generation in hydrology, and sharing the latest information in related fields (conferences, job opportunities, new technologies, etc.). 
   I joined Hydro90 as an editorial board member in September 2023.
 </div>
 </div>
