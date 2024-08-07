@@ -48,15 +48,19 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - International Forum on Groundwater (Aug. 2024): **X. Zhang**, S. Jiang*, Leveraging Deep Generative Models for Enhanced Hydraulic Conductivity Estimation in Groundwater Modeling. *Oral presentation*, Session 14, Jilin, China.
 
 # 💧 Hydro90
-<div class='paper-box'><div class='paper-box-image'><img src='images/hydro90.png' alt="Hydro90" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-  Hydro90 was established in June 2020 with the aim of fostering communication among young hydrologists, promoting the latest research achievements of the new generation in hydrology, and sharing the latest information in related fields (conferences, job opportunities, new technologies, etc.). 
+  <div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/images/hydro90.png' alt="Hydro90" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  </div>
+</div>
+
+  **Hydro90** was established in June 2020 with the aim of fostering communication among young hydrologists, promoting the latest research achievements of the new generation in hydrology, and sharing the latest information in related fields (conferences, job opportunities, new technologies, etc.). 
   
   I joined Hydro90 as an editorial board member in September 2023.
   
   This is a vibrant community! It continues to strive for greater impact in the field of hydrology and welcomes all interested participants. 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2019-2021* Chunyu Scholarship
@@ -69,10 +73,10 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2022.06 - Present*, Master, College of Civil engineering, Tongji Univeristy, Shanghai.
 - *2018.09 - 2022.06*, Undergraduate, College of water resources and architectural engineering, Northwest A&F University, Yangling.
 
-# A Video of Me Explaining My Research
+# 🎥 A Video of Me Explaining My Research
 Awaiting upload...
 
-# My Vision for Future Research
+# 🫡 My Vision for Future Research
 
 <div class='paper-box'>
   <div class='paper-box-image'>
