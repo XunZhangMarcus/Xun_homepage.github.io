@@ -28,6 +28,8 @@ redirect_from:
 
 - Feel free to reach out for discussion, collaboration, or any exciting opportunities!
 
+ xunzang[at]tongji[dot]edu[dot]cn
+
 
 
 # 💻 Current Research Interest
