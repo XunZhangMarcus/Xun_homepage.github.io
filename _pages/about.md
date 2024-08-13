@@ -41,12 +41,14 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2024.06*: I participated in the Tongji University Summer School program "Climate Change and Global Governance - Exploring Norway and the Arctic," where I visited Svalbard island, Arctic! And I made many valuable friends and learned a lot of new knowledge about hydrology and the environment. Super joyful experience! Grateful for everyone I've met.😊
 - *2024.07*: I participated in SJTU SDG July Camp - Ocean Sustainability in a Changing Climate.
 - *2024.08*: I participated in Tongji University Environmental Science & Engineering Summer School 2024.
+- *2024.08*: &nbsp;🎉🎉 I participated in the International Forum on Groundwater, presented a report and received the Outstanding Graduate Student Presentation Award!
 
+  
 # 📝 Publications and Conferences
-- **X. Zhang**, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, **Journal of Hydrology**, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
-- **X. Zhang**, S. Jiang*, N. Zheng, X. Xia, Z. Li, R. Zhang, and X. Wang, Integration of DDPM and ILUES for Simultaneous Identification of Contaminant Source Parameters and Non-Gaussian Channelized Hydraulic Conductivity Field, **Water Resources Research**, Under review, 2023.
+- **X. Zhang**, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, ***Journal of Hydrology***, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
+- **X. Zhang**, S. Jiang*, N. Zheng, X. Xia, Z. Li, R. Zhang, and X. Wang, Integration of DDPM and ILUES for Simultaneous Identification of Contaminant Source Parameters and Non-Gaussian Channelized Hydraulic Conductivity Field, ***Water Resources Research***, Under review, 2023.
 - X. Wang, M. Zheng*, S. Jiang, **X. Zhang**, Urban Stormwater Simulation and Improvement of Drainage Solutions in the North Bund Area of Shanghai, Under review, 2024.
-- International Forum on Groundwater (Aug. 2024): **X. Zhang**, S. Jiang*, Leveraging Deep Generative Models for Enhanced Hydraulic Conductivity Estimation in Groundwater Modeling. Oral presentation, Session 14, Jilin, China.
+- International Forum on Groundwater (Aug. 2024): **X. Zhang**, S. Jiang*, Leveraging Deep Generative Models for Enhanced Hydraulic Conductivity Estimation in Groundwater Modeling. Oral presentation, Session 14, Jilin, China. ***Outstanding Graduate Student Presentation Award***
 
 # 💧 Hydro90
 - **Hydro90** was established in June 2020 with the aim of fostering communication among young hydrologists, promoting the latest research achievements of the new generation in hydrology, and sharing the latest information in related fields (conferences, job opportunities, new technologies, etc.). 
