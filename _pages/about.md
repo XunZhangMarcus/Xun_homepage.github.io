@@ -28,7 +28,7 @@ redirect_from:
 
 - Feel free to reach out for discussion, collaboration, or any exciting opportunities!
 
-    E-mail: xunzang[at]tongji[dot]edu[dot]cn
+    E-mail: 2232324[at]tongji[dot]edu[dot]cn
 
 
 
