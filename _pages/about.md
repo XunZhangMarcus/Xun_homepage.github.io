@@ -82,7 +82,7 @@ Awaiting upload...  -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/my vision.png' alt="My Vision" width="100%">
+    <img src='images/my vision.png' alt="My Vision" width="30%">
   </div>
   <div class='paper-box-text' markdown="1">
   </div>
