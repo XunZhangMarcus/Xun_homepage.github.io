@@ -57,6 +57,9 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Hydro90.gif' alt="Hydro90" width="100%"></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2019-2021* Chunyu Scholarship
