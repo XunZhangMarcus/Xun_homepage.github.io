@@ -57,6 +57,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - I joined Hydro90 as an editorial board member in September 2023.
 - Hydro90 is a vibrant community! It continues to strive for greater impact in the field of hydrology and welcomes all interested participants.
 
+
 <div class='paper-box-image'>
      <img src='images/Hydro90.gif' alt="Hydro90" width="100%">
   </div>
@@ -82,7 +83,7 @@ Awaiting upload...  -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/my vision.png' alt="My Vision" width="30%">
+    <img src='images/my vision.png' alt="My Vision" width="80%">
   </div>
   <div class='paper-box-text' markdown="1">
   </div>
