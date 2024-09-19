@@ -61,6 +61,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 
 
 # 🎖 Honors and Awards
+- *2024* Graduate National Scholarship
 - *2019-2021* Chunyu Scholarship
 - *2022* "China Optics Valley · Huawei Cup" Graduate Mathematical Modeling Competition, National Second Prize **(Top 13.36%)**
 - *2021* National College Students Mathematics Competition, National First Prize **(Top 8%)**
