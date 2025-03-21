@@ -62,6 +62,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 
 
 # 🎖 Honors and Awards
+- *2025* Outstanding Master's Graduates of Tongji University
 - *2024* Outstanding Graduate Student of Tongji University
 - *2024* Graduate National Scholarship
 - *2019-2021* Chunyu Scholarship
