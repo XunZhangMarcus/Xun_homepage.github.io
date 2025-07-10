@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-- Hello there! I'm Xun, currently a M.S. candidate (third year) in Hydraulic Engineering at Tongji University. I plan to defend my dissertation in June 2025. 
+- Hello there! I'm Xun, currently a Research Assistant in Hydraulic Engineering at Tongji University. 
 
 - My academic journey began with a Bachelor's degree in Water Conservancy and Hydraulic Engineering from Northwest A&F University, where I studied everything related to hydraulic engineering complex and its interaction with the environment.
 
