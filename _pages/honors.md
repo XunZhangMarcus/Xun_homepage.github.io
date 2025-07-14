@@ -2,7 +2,7 @@
 permalink: /honors/
 title: "Honors and Awards"
 excerpt: "Honors and awards received."
-author_profile: false
+author_profile: true
 ---
 
 # 🎖 Honors and Awards
@@ -13,4 +13,5 @@ author_profile: false
 - *2022* "China Optics Valley · Huawei Cup" Graduate Mathematical Modeling Competition, National Second Prize **(Top 13.36%)**
 - *2021* National College Students Mathematics Competition, National First Prize **(Top 8%)**
 - *2021* National College Students English Competition, Second Prize **(Top 3%)**
-- *2020* National Undergraduate Mathematical Modeling Competition, Shaanxi Province Second Prize **(Top 20%)** 
+- *2020* National Undergraduate Mathematical Modeling Competition, Shaanxi Province Second Prize **(Top 20%)**
+

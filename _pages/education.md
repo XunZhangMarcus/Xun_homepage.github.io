@@ -1,10 +1,11 @@
 ---
 permalink: /education/
-title: "Educations"
+title: "Education"
 excerpt: "Education background."
-author_profile: false
+author_profile: true
 ---
 
-# 📖 Educations
+# 📖 Education
 - *2022.06 - Present*, Master, College of Civil engineering, Tongji Univeristy, Shanghai.
-- *2018.09 - 2022.06*, Undergraduate, College of water resources and architectural engineering, Northwest A&F University, Yangling. 
+- *2018.09 - 2022.06*, Undergraduate, College of water resources and architectural engineering, Northwest A&F University, Yangling.
+
