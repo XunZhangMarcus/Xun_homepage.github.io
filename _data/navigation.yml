@@ -6,24 +6,26 @@ main:
   - title: "News"
     url: "/news/"
 
-  - title: "Publications"
+  - title: "Publications and Conferences"
     url: "/publications/"
 
   - title: "Hydro90"
     url: "/hydro90/"
     
-  - title: "Honors"
+  - title: "Honors and Awards"
     url: "/honors/"
 
-  - title: "Education"
+  - title: "Educations"
     url: "/education/"
 
-  - title: "Vision"
+  #### - title: "A Video of Me Explaining My Research"
+  #### url: "/#-video"
+
+  - title: "My Vision for Future Research"
     url: "/vision/"
 
-  - title: "Fun Facts"
+  - title: "Fun facts about Xun"
     url: "/funfacts/"
 
-  - title: "Research Collaboration"
-    url: "/collaboration/"
-
+  - title: "Farewell to Gaming"
+    url: "/farewell/"

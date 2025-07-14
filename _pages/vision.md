@@ -1,8 +1,8 @@
 ---
 permalink: /vision/
 title: "My Vision for Future Research"
-excerpt: "My vision for future research."
-author_profile: true
+excerpt: "Future research vision."
+author_profile: false
 ---
 
 # 🫡 My Vision for Future Research
@@ -13,5 +13,4 @@ author_profile: true
   </div>
   <div class='paper-box-text' markdown="1">
   </div>
-</div>
-
+</div> 
