@@ -41,7 +41,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2024.08*: I participated in Tongji University Environmental Science & Engineering Summer School 2024.
 - *2024.08*: &nbsp;🎉🎉 I participated in the International Forum on Groundwater, presented a report and received the Outstanding Graduate Student Presentation Award!
 - *2024.08*: &nbsp;🎉🎉My [WRR paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036893#main1) is now online. Click to view. Open source [code](https://github.com/XunZhangMarcus/AEdiffuison_surrogate_DA_inversion)
-- *2025.07*: Our collaborative paper on remote sensing data and carbon sources/sinks was published in Remote Sensing. My [third paper](https://doi.org/10.3390/rs17142475)
+- *2025.07*: Our collaborative paper on remote sensing data and carbon sources/sinks was published in Remote Sensing. My [third paper](https://doi.org/10.3390/rs17142475)is now online. Click to view.
 - 
 # 📝 Publications and Conferences
 - **X. Zhang**, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, **Journal of Hydrology**, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
