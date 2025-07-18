@@ -20,9 +20,7 @@ redirect_from:
 # About me
 - Hello there! I'm Xun, currently a Research Assistant in Hydraulic Engineering at Tongji University. 
 
-- My academic journey began with a Bachelor's degree in Water Conservancy and Hydraulic Engineering from Northwest A&F University, where I studied everything related to hydraulic engineering complex and its interaction with the environment.
-
-- Currently, I am trying to discover a more creative fusion between Data Science and Hydrogeology. My research specifically focuses on **groundwater flow and solute transport modeling**, which is crucial for evaluating groundwater quality and contamination risks, thereby ensuring the safety of drinking water. Briefly, my work primarily concentrates on two areas: developing new deep learning-based parameterization methods (DLPMs) and creating deep learning surrogate models to predict groundwater solute transport.
+- My academic journey began with a Bachelor's degree in Water Conservancy and Hydraulic Engineering from Northwest A&F University, where I studied everything related to hydraulic engineering complex and its interaction with the environment. During my Master studies, I  discovered a more creative fusion between Data Science and Hydrogeology. My research specifically focused on **groundwater flow and solute transport modeling**, which is crucial for evaluating groundwater quality and contamination risks, thereby ensuring the safety of drinking water. Briefly, my work primarily concentrated on two areas: developing new deep learning-based parameterization methods (DLPMs) and creating deep learning surrogate models to predict groundwater solute transport.
 
 - I plan to pursue a PhD degree in the near future.
 
@@ -43,7 +41,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2024.08*: I participated in Tongji University Environmental Science & Engineering Summer School 2024.
 - *2024.08*: &nbsp;🎉🎉 I participated in the International Forum on Groundwater, presented a report and received the Outstanding Graduate Student Presentation Award!
 - *2024.08*: &nbsp;🎉🎉My [WRR paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036893#main1) is now online. Click to view. Open source [code](https://github.com/XunZhangMarcus/AEdiffuison_surrogate_DA_inversion)
-  
+- *2025.07*: Our collaborative paper on remote sensing data and carbon sources/sinks was published in Remote Sensing. My [third paper](https://doi.org/10.3390/rs17142475)
 # 📝 Publications and Conferences
 - **X. Zhang**, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, **Journal of Hydrology**, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
 - **X. Zhang**, S. Jiang*, N. Zheng, X. Xia, Z. Li, R. Zhang, and X. Wang, Integration of DDPM and ILUES for Simultaneous Identification of Contaminant Source Parameters and Non-Gaussian Channelized Hydraulic Conductivity Field, **Water Resources Research**, 2024, https://doi.org/10.1029/ 2023WR036893.
@@ -72,7 +70,7 @@ Groundwater Pollution, Urban Flooding, Data Assimilation, Physics-informed Deep 
 - *2020* National Undergraduate Mathematical Modeling Competition, Shaanxi Province Second Prize **(Top 20%)**
 
 # 📖 Educations
-- *2022.06 - Present*, Master, College of Civil engineering, Tongji Univeristy, Shanghai.
+- *2022.06 - 2025.06*, Master, College of Civil engineering, Tongji Univeristy, Shanghai.
 - *2018.09 - 2022.06*, Undergraduate, College of water resources and architectural engineering, Northwest A&F University, Yangling.
 
 <!-- # 🎥 A Video of Me Explaining My Research
