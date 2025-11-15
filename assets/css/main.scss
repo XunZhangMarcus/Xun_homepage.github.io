@@ -130,26 +130,6 @@ h1:before, .anchor:before {
     max-width: 60rem;
 }
 
-.subpage-hero {
-    display: flex;
-    flex-direction: column;
-    gap: 1.25rem;
-}
-
-.subpage-nav-block {
-    display: flex;
-    flex-direction: column;
-    gap: .35rem;
-}
-
-.subpage-nav-label {
-    font-size: .8rem;
-    letter-spacing: .18em;
-    text-transform: uppercase;
-    color: rgba(13,21,39,.65);
-    font-weight: 600;
-}
-
 .hero-panel__body {
     max-width: 48rem;
 }
@@ -175,39 +155,6 @@ h1:before, .anchor:before {
     font-weight: 700;
     color: rgba(0,54,159,.85);
     margin-bottom: .35rem;
-}
-
-.subpage-nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .5rem;
-    margin-top: 1.25rem;
-    width: 100%;
-}
-
-.subpage-nav__link {
-    padding: .45rem 1rem;
-    border-radius: 999px;
-    border: 1px solid transparent;
-    background: rgba(255,255,255,.6);
-    text-decoration: none;
-    font-size: .9rem;
-    color: inherit;
-    transition: border-color .2s ease, color .2s ease, background .2s ease;
-}
-
-.subpage-nav__link:hover,
-.subpage-nav__link:focus {
-    border-color: rgba(0,54,159,.35);
-    color: #00369f;
-    outline: none;
-}
-
-.subpage-nav__link.is-active {
-    background: #00369f;
-    color: #fff;
-    border-color: #00369f;
-    box-shadow: 0 0.75rem 1.5rem -1rem rgba(0,54,159,.8);
 }
 
 .quick-links-grid {
