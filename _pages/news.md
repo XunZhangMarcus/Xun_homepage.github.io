@@ -7,7 +7,7 @@ author_profile: false
 
 {% include subpage-hero.html title=page.title description=page.excerpt active="news" %}
 
-# 🔥 News
+## 🔥 Latest Updates
 <div class="card-panel">
 <div class="news-timeline">
   <article class="timeline-item">
