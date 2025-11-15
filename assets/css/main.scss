@@ -260,8 +260,8 @@ h1:before, .anchor:before {
     text-align: left;
     align-self: flex-start;
     width: 33%;
-    min-width: 12rem;
-    max-width: 33%;
+    max-width: none;
+    min-width: 0;
     float: left;
     margin-right: 1.5rem;
 }
