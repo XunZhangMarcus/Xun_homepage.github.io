@@ -1,0 +1,24 @@
+{% assign nav_links = site.data.navigation.main %}
+<section class="subpage-hero">
+  <div class="subpage-hero__body">
+    <p class="subpage-hero__eyebrow">Explore More</p>
+    <h1>{{ include.title }}</h1>
+    {% if include.excerpt %}
+      <p class="subpage-hero__excerpt">{{ include.excerpt }}</p>
+    {% endif %}
+  </div>
+  {% if nav_links %}
+  <div class="subpage-hero__links">
+    {% for item in nav_links %}
+      {% unless item.key == "about" %}
+        {% assign is_active = include.active == item.key %}
+        <a class="quick-link-card{% if is_active %} quick-link-card--active{% endif %}"
+           href="{{ item.url | relative_url }}"
+           {% if is_active %}aria-current="page"{% endif %}>
+          <span class="quick-link-title">{{ item.title }}</span>
+        </a>
+      {% endunless %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>

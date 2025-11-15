@@ -3,7 +3,10 @@ permalink: /news/
 title: "News"
 excerpt: "Recent news and updates."
 author_profile: false
+header: false
 ---
+
+{% include subpage-hero.html title=page.title excerpt=page.excerpt active="news" %}
 
 <section class="page-section">
   <div class="content-card">

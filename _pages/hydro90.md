@@ -3,7 +3,10 @@ permalink: /hydro90/
 title: "Hydro90"
 excerpt: "Hydro90 community introduction."
 author_profile: false
+header: false
 ---
+
+{% include subpage-hero.html title=page.title excerpt=page.excerpt active="hydro90" %}
 
 <section class="page-section">
   <div class="content-card">

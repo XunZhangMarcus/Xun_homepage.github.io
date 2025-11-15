@@ -3,7 +3,10 @@ permalink: /honors/
 title: "Honors and Awards"
 excerpt: "Honors and awards received."
 author_profile: false
+header: false
 ---
+
+{% include subpage-hero.html title=page.title excerpt=page.excerpt active="honors" %}
 
 <section class="page-section">
   <div class="content-card">

@@ -3,7 +3,10 @@ permalink: /publications/
 title: "Publications and Conferences"
 excerpt: "Papers and conference presentations."
 author_profile: false
+header: false
 ---
+
+{% include subpage-hero.html title=page.title excerpt=page.excerpt active="publications" %}
 
 <section class="page-section">
   <div class="content-card">
