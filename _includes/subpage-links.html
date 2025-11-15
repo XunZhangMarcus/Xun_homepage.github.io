@@ -1,0 +1,20 @@
+{% assign nav_links = site.data.navigation.main %}
+{% if nav_links %}
+<section class="page-section subpage-links">
+  <div class="content-card">
+    <h2 class="subpage-links__title">Explore My Work</h2>
+    <div class="quick-links-grid">
+      {% for item in nav_links %}
+        {% unless item.key == "about" %}
+          {% assign is_active = item.key == include.active %}
+          <a class="quick-link-card{% if is_active %} is-active{% endif %}"
+             href="{{ item.url | relative_url }}"
+             {% if is_active %}aria-current="page"{% endif %}>
+            <span class="quick-link-title">{{ item.title }}</span>
+          </a>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

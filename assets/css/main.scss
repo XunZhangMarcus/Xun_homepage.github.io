@@ -202,6 +202,17 @@ h1:before, .anchor:before {
     text-decoration: none;
 }
 
+.quick-link-card.is-active {
+    background: #00369f;
+    color: #fff;
+    border-color: rgba(0,54,159,.8);
+    box-shadow: 0 20px 40px -35px rgba(0,54,159,.85);
+}
+
+.quick-link-card.is-active .quick-link-title {
+    color: inherit;
+}
+
 .feature-figure {
     margin: 1.5rem 0;
     text-align: left;

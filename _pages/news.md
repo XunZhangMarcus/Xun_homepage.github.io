@@ -6,6 +6,8 @@ author_profile: false
 header: false
 ---
 
+{% include subpage-links.html active="news" %}
+
 <section class="page-section">
   <div class="content-card">
     <h2>🔥 Latest Updates</h2>

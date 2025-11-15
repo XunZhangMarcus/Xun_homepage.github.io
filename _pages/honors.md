@@ -6,6 +6,8 @@ author_profile: false
 header: false
 ---
 
+{% include subpage-links.html active="honors" %}
+
 <section class="page-section">
   <div class="content-card">
     {% capture honors_block %}
