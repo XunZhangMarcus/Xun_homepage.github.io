@@ -9,11 +9,7 @@ author_profile: false
 
 # 🫡 My Vision for Future Research
 <div class="card-panel">
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='{{ "/images/my-vision.png" | relative_url }}' alt="My Vision" width="80%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  </div>
-</div> 
+  <figure class="feature-figure">
+    <img src='{{ "/images/my-vision.png" | relative_url }}' alt="My Vision" loading="lazy">
+  </figure>
 </div>
