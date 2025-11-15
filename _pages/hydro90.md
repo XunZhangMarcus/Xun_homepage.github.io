@@ -6,8 +6,6 @@ author_profile: false
 header: false
 ---
 
-{% include subpage-links.html active="hydro90" %}
-
 <section class="page-section">
   <div class="content-card">
     {% capture hydro_block %}

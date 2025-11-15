@@ -6,8 +6,6 @@ author_profile: false
 header: false
 ---
 
-{% include subpage-links.html active="publications" %}
-
 <section class="page-section">
   <div class="content-card">
     <h2>📝 Publications</h2>
