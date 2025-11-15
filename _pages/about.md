@@ -36,35 +36,21 @@ redirect_from:
   <div class="quick-links-grid">
     <a class="quick-link-card" href="{{ '/news/' | relative_url }}">
       <span class="quick-link-title">🔥 News</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
     </a>
     <a class="quick-link-card" href="{{ '/publications/' | relative_url }}">
       <span class="quick-link-title">📝 Publications and Conferences</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
     </a>
     <a class="quick-link-card" href="{{ '/hydro90/' | relative_url }}">
       <span class="quick-link-title">💧 Hydro90</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
     </a>
     <a class="quick-link-card" href="{{ '/honors/' | relative_url }}">
       <span class="quick-link-title">🎖 Honors and Awards</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
     </a>
     <a class="quick-link-card" href="{{ '/education/' | relative_url }}">
       <span class="quick-link-title">📖 Educations</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
     </a>
     <a class="quick-link-card" href="{{ '/vision/' | relative_url }}">
       <span class="quick-link-title">🫡 My Vision for Future Research</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
-    </a>
-    <a class="quick-link-card" href="{{ '/funfacts/' | relative_url }}">
-      <span class="quick-link-title">🤫 Fun facts about Xun</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
-    </a>
-    <a class="quick-link-card" href="{{ '/farewell/' | relative_url }}">
-      <span class="quick-link-title">🎮 Farewell to Gaming</span>
-      <span class="quick-link-icon" aria-hidden="true">→</span>
     </a>
   </div>
 </div>

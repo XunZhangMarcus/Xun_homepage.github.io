@@ -5,6 +5,8 @@ excerpt: "Honors and awards received."
 author_profile: false
 ---
 
+{% include subpage-hero.html title=page.title description=page.excerpt active="honors" %}
+
 # 🎖 Honors and Awards
 <div class="card-panel" markdown="1">
 - *2025* Outstanding Master's Graduates of Tongji University

@@ -5,6 +5,8 @@ excerpt: "Education background."
 author_profile: false
 ---
 
+{% include subpage-hero.html title=page.title description=page.excerpt active="education" %}
+
 # 📖 Educations
 <div class="card-panel">
 <div class="education-timeline">

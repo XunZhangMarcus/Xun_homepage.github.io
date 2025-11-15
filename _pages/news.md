@@ -5,6 +5,8 @@ excerpt: "Recent news and updates."
 author_profile: false
 ---
 
+{% include subpage-hero.html title=page.title description=page.excerpt active="news" %}
+
 # 🔥 News
 <div class="card-panel">
 <div class="news-timeline">

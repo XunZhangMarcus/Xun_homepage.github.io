@@ -139,6 +139,47 @@ h1:before, .anchor:before {
     color: #00369f;
 }
 
+.hero-eyebrow {
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-size: .75rem;
+    font-weight: 700;
+    color: rgba(0,54,159,.85);
+    margin-bottom: .35rem;
+}
+
+.subpage-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: 1.25rem;
+}
+
+.subpage-nav__link {
+    padding: .45rem 1rem;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    background: rgba(255,255,255,.6);
+    text-decoration: none;
+    font-size: .9rem;
+    color: inherit;
+    transition: border-color .2s ease, color .2s ease, background .2s ease;
+}
+
+.subpage-nav__link:hover,
+.subpage-nav__link:focus {
+    border-color: rgba(0,54,159,.35);
+    color: #00369f;
+    outline: none;
+}
+
+.subpage-nav__link.is-active {
+    background: #00369f;
+    color: #fff;
+    border-color: #00369f;
+    box-shadow: 0 0.75rem 1.5rem -1rem rgba(0,54,159,.8);
+}
+
 .quick-links-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
@@ -148,12 +189,14 @@ h1:before, .anchor:before {
 
 .quick-link-card {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     padding: 1rem 1.25rem;
     border-radius: .9rem;
     text-decoration: none;
     color: inherit;
+    text-align: center;
     border: 1px solid rgba(0,0,0,.05);
     background: #f8fafc;
     transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
@@ -165,10 +208,6 @@ h1:before, .anchor:before {
     box-shadow: 0 15px 30px -20px rgba(0,0,0,.8);
     border-color: rgba(0,54,159,.35);
     outline: none;
-}
-
-.quick-link-icon {
-    font-size: 1.25rem;
 }
 
 .news-timeline {

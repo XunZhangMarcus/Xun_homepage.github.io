@@ -1,31 +1,32 @@
 # main links links
 main:
-  - title: "About Me"
+  - key: about
+    title: "About Me"
     url: "/"
     
-  - title: "News"
+  - key: news
+    title: "News"
     url: "/news/"
 
-  - title: "Publications and Conferences"
+  - key: publications
+    title: "Publications and Conferences"
     url: "/publications/"
 
-  - title: "Hydro90"
+  - key: hydro90
+    title: "Hydro90"
     url: "/hydro90/"
     
-  - title: "Honors and Awards"
+  - key: honors
+    title: "Honors and Awards"
     url: "/honors/"
 
-  - title: "Educations"
+  - key: education
+    title: "Educations"
     url: "/education/"
 
   #### - title: "A Video of Me Explaining My Research"
-  #### url: "/#-video"
+  ####   url: "/#-video"
 
-  - title: "My Vision for Future Research"
+  - key: vision
+    title: "My Vision for Future Research"
     url: "/vision/"
-
-  - title: "Fun facts about Xun"
-    url: "/funfacts/"
-
-  - title: "Farewell to Gaming"
-    url: "/farewell/"
