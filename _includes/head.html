@@ -2,18 +2,39 @@
 
 {% include seo.html %}
 
+<!-- Performance and mobile optimization -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- DNS prefetch for external resources -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//scholar.google.com">
+
+<!-- Preconnect to important third-party origins -->
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Critical CSS and performance optimization -->
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="assets/css/main.css">
+<!-- Optimized stylesheet loading -->
+<link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"></noscript>
 
+<!-- Performance optimization meta tags -->
 <meta http-equiv="cleartype" content="on">
+<meta name="format-detection" content="telephone=no">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Resource hints for better performance -->
+{% if page.url == "/" %}
+<link rel="prefetch" href="{{ '/news/' | relative_url }}">
+<link rel="prefetch" href="{{ '/publications/' | relative_url }}">
+{% endif %}
 <!-- <head>
   <base target="_blank">
 </head> -->

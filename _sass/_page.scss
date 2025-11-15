@@ -11,6 +11,23 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @include breakpoint($small) {
+    margin-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+
+  @include breakpoint($medium) {
+    margin-top: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
+  @include breakpoint($large) {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
@@ -60,19 +77,47 @@
         margin-top: -10em;
     }
   }
+  
   h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    padding-bottom: 0.75em;
+    border-bottom: 2px solid $border-color;
+    color: $darker-gray;
+    font-weight: 700;
+  }
+
+  h2 {
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+    color: $dark-gray;
+    position: relative;
+    
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: -0.5em;
+      left: 0;
+      width: 3em;
+      height: 2px;
+      background: $info-color;
+    }
+  }
+
+  h3 {
+    margin-top: 2em;
+    margin-bottom: 0.75em;
+    color: $dark-gray;
   }
 
   p, li, dl {
     font-size: 1em;
+    line-height: 1.7;
   }
 
-  /* paragraph indents */
+  /* enhanced paragraph spacing */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 1.25em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -83,38 +128,160 @@
     }
   }
 
+  /* improved link styling */
   a {
-    text-decoration: underline;
+    color: $info-color;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: darken($info-color, 15%);
+      border-bottom-color: $info-color;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 4px 12px rgba(#000, 0.15);
+        transform: translateY(-2px);
       }
     }
   }
 
+  /* enhanced definition lists */
   dt {
-    margin-top: 1em;
+    margin-top: 1.5em;
     font-family: $sans-serif;
-    font-weight: bold;
+    font-weight: 600;
+    color: $dark-gray;
+    font-size: 1.1em;
   }
 
   dd {
-    margin-left: 1em;
+    margin-left: 1.5em;
+    margin-bottom: 1em;
     font-family: $sans-serif;
     font-size: $type-size-6;
+    line-height: 1.6;
   }
 
   .small {
     font-size: $type-size-6;
+    color: $gray;
   }
 
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+
+  /* enhanced code blocks */
+  pre {
+    background: $code-background-color;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    padding: 1.5em;
+    margin: 1.5em 0;
+    overflow-x: auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  /* improved table styling */
+  table {
+    margin: 2em 0;
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: $border-radius;
+    overflow: hidden;
+  }
+
+  th, td {
+    padding: 1em;
+    text-align: left;
+    border-bottom: 1px solid $border-color;
+  }
+
+  th {
+    background: $lighter-gray;
+    font-weight: 600;
+    color: $dark-gray;
+  }
+
+  tr:hover {
+    background: rgba($info-color, 0.05);
+  }
+
+  /* Enhanced responsive design for mobile */
+  @include breakpoint(max-width $small) {
+    h1 {
+      font-size: $type-size-2;
+      margin-top: 1.5em;
+      margin-bottom: 0.75em;
+      padding-bottom: 0.5em;
+    }
+
+    h2 {
+      font-size: $type-size-3;
+      margin-top: 2em;
+      margin-bottom: 0.75em;
+      
+      &:after {
+        width: 2em;
+      }
+    }
+
+    h3 {
+      font-size: $type-size-4;
+      margin-top: 1.5em;
+    }
+
+    p, li {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    /* Mobile-optimized tables */
+    table {
+      font-size: 0.9rem;
+      margin: 1.5em 0;
+    }
+
+    th, td {
+      padding: 0.75em 0.5em;
+    }
+
+    /* Mobile-optimized code blocks */
+    pre {
+      padding: 1em;
+      margin: 1em 0;
+      font-size: 0.85rem;
+    }
+
+    /* Mobile-optimized definition lists */
+    dt {
+      font-size: 1rem;
+      margin-top: 1.25em;
+    }
+
+    dd {
+      margin-left: 1em;
+      font-size: 0.9rem;
+    }
+  }
+
+  /* Tablet-specific optimizations */
+  @include breakpoint($small $medium) {
+    h1 {
+      font-size: $type-size-1;
+    }
+
+    h2 {
+      font-size: $type-size-2;
+    }
+
+    h3 {
+      font-size: $type-size-3;
+    }
   }
 }
 

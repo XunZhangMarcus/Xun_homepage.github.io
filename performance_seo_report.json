@@ -1,0 +1,244 @@
+{
+  "timestamp": "2025-11-15T10:27:40.916303",
+  "performance_tests": {
+    "image_optimization": {
+      "stats": {
+        "total_images": 13,
+        "optimized_formats": 6,
+        "large_images": [],
+        "unoptimized_images": []
+      },
+      "optimization_ratio": 0.46153846153846156,
+      "status": "PASS"
+    },
+    "css_optimization": {
+      "features": {
+        "sass_compression": true,
+        "html_compression": true,
+        "asset_optimization": true
+      },
+      "status": "PASS"
+    },
+    "performance_issues": {
+      "issues": [],
+      "count": 0,
+      "status": "PASS"
+    }
+  },
+  "seo_tests": {
+    "seo_config": {
+      "features": {
+        "seo_plugin": true,
+        "sitemap_plugin": true,
+        "feed_plugin": true,
+        "site_metadata": {
+          "title": "Xun Zhang(张洵)",
+          "description": "Master student at Tongji University",
+          "url": "https://xunzhangmarcus.github.io",
+          "author": {
+            "name": "Xun Zhang(张洵)",
+            "avatar": "images/android-chrome-512x512.png",
+            "bio": "Tongji University",
+            "location": "Shanghai, China",
+            "employer": null,
+            "pubmed": null,
+            "googlescholar": "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID",
+            "email": "2232324@tongji.edu.cn",
+            "researchgate": "https://www.researchgate.net/profile/Xun-Zhang-43",
+            "uri": null,
+            "bitbucket": null,
+            "codepen": null,
+            "dribbble": null,
+            "flickr": null,
+            "facebook": null,
+            "foursquare": null,
+            "github": null,
+            "google_plus": null,
+            "keybase": null,
+            "instagram": null,
+            "impactstory": null,
+            "lastfm": null,
+            "linkedin": null,
+            "dblp": null,
+            "orcid": null,
+            "pinterest": null,
+            "soundcloud": null,
+            "stackoverflow": null,
+            "steam": null,
+            "tumblr": null,
+            "twitter": null,
+            "vine": null,
+            "weibo": null,
+            "xing": null,
+            "youtube": null,
+            "wikipedia": null
+          }
+        }
+      },
+      "metadata_completeness": 1.0,
+      "status": "PASS"
+    },
+    "page_seo": {
+      "pages": {
+        "about": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 8,
+            "description_length": 64,
+            "has_headings": true,
+            "has_internal_links": true
+          },
+          "score": 0.7142857142857143,
+          "status": "PASS"
+        },
+        "education": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 20,
+            "description_length": 45,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        },
+        "farewell": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 18,
+            "description_length": 70,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        },
+        "funfacts": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 19,
+            "description_length": 70,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        },
+        "honors": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 15,
+            "description_length": 59,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        },
+        "hydro90": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 17,
+            "description_length": 58,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        },
+        "news": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 14,
+            "description_length": 41,
+            "has_headings": true,
+            "has_internal_links": true
+          },
+          "score": 0.7142857142857143,
+          "status": "PASS"
+        },
+        "publications": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 26,
+            "description_length": 75,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        },
+        "vision": {
+          "details": {
+            "has_title": true,
+            "has_description": true,
+            "has_excerpt": true,
+            "title_length": 29,
+            "description_length": 69,
+            "has_headings": true,
+            "has_internal_links": false
+          },
+          "score": 0.5714285714285714,
+          "status": "WARN"
+        }
+      },
+      "average_score": 0.6031746031746031,
+      "status": "WARN"
+    },
+    "structured_data": {
+      "features": {
+        "json_ld": false,
+        "microdata": true,
+        "open_graph": true,
+        "twitter_cards": true
+      },
+      "count": 3,
+      "status": "PASS"
+    }
+  },
+  "mobile_tests": {
+    "responsive_design": {
+      "features": {
+        "viewport_meta": true,
+        "media_queries": 8,
+        "flexible_images": true,
+        "touch_friendly": true,
+        "mobile_navigation": true
+      },
+      "score": 1.0,
+      "status": "PASS"
+    },
+    "mobile_optimizations": {
+      "features": {
+        "compressed_images": 6,
+        "lazy_loading": false,
+        "critical_css": false,
+        "service_worker": false
+      },
+      "status": "PASS"
+    }
+  },
+  "summary": {
+    "performance_score": 1.0,
+    "seo_score": 0.6666666666666666,
+    "mobile_score": 1.0,
+    "overall_score": 0.8888888888888888,
+    "overall_status": "PASS"
+  }
+}

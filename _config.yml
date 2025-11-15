@@ -9,6 +9,8 @@
 title                    : "Xun Zhang(张洵)"
 description              : "Master student at Tongji University"
 repository               : "XunZhangMarcus/Xun_homepage.github.io"
+url                      : "https://xunzhangmarcus.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -98,15 +100,17 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
+# Conversion and Performance optimizations
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+future: false
+show_drafts: false
+limit_posts: 0
 
-
-# Markdown Processing
+# Markdown Processing with performance optimizations
 kramdown:
   input: GFM
   hard_wrap: false
@@ -116,6 +120,13 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
 
 # Defaults
 defaults:
@@ -126,38 +137,40 @@ defaults:
     values:
       layout: default
       author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
 
-
-# Sass/SCSS
+# Asset optimization
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
+  sourcemap: never
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
-
-# Plugins
+# Plugins (GitHub Pages compatible)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-github-metadata
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
+# HTML Compression for performance
 compress_html:
   clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
   ignore:
     envs: development

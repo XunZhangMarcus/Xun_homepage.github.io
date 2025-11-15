@@ -6,19 +6,16 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 14;
+$doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 0.5em;
+$indent-var                 : 1em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-// $sans-serif                 : Georgia, serif, sans-serif;
-
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : Georgia, "Times New Roman", Times, serif;
+$sans-serif                 : -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+$monospace                  : "SF Mono", Monaco, Inconsolata, "Roboto Mono", "Source Code Pro", Menlo, Consolas, "Courier New", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -35,40 +32,40 @@ $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
-/* type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.4em;  // ~25.008px
-$type-size-4                : 1.2em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 1em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+/* improved type scale for better hierarchy */
+$type-size-1                : 2.5em;    // ~40px - Main headings
+$type-size-2                : 2em;      // ~32px - Section headings
+$type-size-3                : 1.5em;    // ~24px - Subsection headings
+$type-size-4                : 1.25em;   // ~20px - Small headings
+$type-size-5                : 1em;      // ~16px - Body text
+$type-size-6                : 0.875em;  // ~14px - Small text
+$type-size-7                : 0.75em;   // ~12px - Caption text
+$type-size-8                : 0.625em;  // ~10px - Tiny text
 
 
 /*
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #6c757d;
+$dark-gray                  : #343a40;
+$darker-gray                : #212529;
+$light-gray                 : #adb5bd;
+$lighter-gray               : #f8f9fa;
 
 $body-color                 : #fff;
 $background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$code-background-color      : #f8f9fa;
+$code-background-color-dark : #e9ecef;
+$text-color                 : $darker-gray;
+$border-color               : #dee2e6;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #224b8d;
-// $info-color                 : #52adc8;
+$primary-color              : #495057;
+$success-color              : #28a745;
+$warning-color              : #ffc107;
+$danger-color               : #dc3545;
+$info-color                 : #007bff;
+// Enhanced contrast for better readability
 
 /* brands */
 $behance-color              : #1769FF;
@@ -106,19 +103,13 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
-/*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
 
-$small                      : 600px !default;
-$medium                     : 768px !default;
-$medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+// Enhanced responsive breakpoints for better mobile experience
+$small                      : 480px !default;   // Mobile phones
+$medium                     : 768px !default;   // Tablets
+$medium-wide                : 1024px !default;  // Small laptops
+$large                      : 1200px !default;  // Desktop
+$x-large                    : 1400px !default;  // Large desktop
 
 /*
    Grid

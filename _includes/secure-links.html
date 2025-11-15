@@ -1,0 +1,61 @@
+<!-- Secure External Links Handler -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Add security attributes to external links
+    var links = document.querySelectorAll('a[href^="http"]');
+    
+    links.forEach(function(link) {
+        var href = link.getAttribute('href');
+        var currentDomain = window.location.hostname;
+        
+        // Check if link is external
+        if (href && !href.includes(currentDomain) && !href.startsWith('mailto:')) {
+            // Add security attributes
+            link.setAttribute('rel', 'noopener noreferrer');
+            link.setAttribute('target', '_blank');
+            
+            // Add visual indicator for external links
+            if (!link.querySelector('.external-link-icon')) {
+                var icon = document.createElement('span');
+                icon.className = 'external-link-icon';
+                icon.innerHTML = ' <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 0.2em;"></i>';
+                link.appendChild(icon);
+            }
+        }
+    });
+    
+    // Handle dynamically added links
+    var observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            if (mutation.type === 'childList') {
+                mutation.addedNodes.forEach(function(node) {
+                    if (node.nodeType === 1) { // Element node
+                        var newLinks = node.querySelectorAll ? node.querySelectorAll('a[href^="http"]') : [];
+                        newLinks.forEach(function(link) {
+                            var href = link.getAttribute('href');
+                            var currentDomain = window.location.hostname;
+                            
+                            if (href && !href.includes(currentDomain) && !href.startsWith('mailto:')) {
+                                link.setAttribute('rel', 'noopener noreferrer');
+                                link.setAttribute('target', '_blank');
+                                
+                                if (!link.querySelector('.external-link-icon')) {
+                                    var icon = document.createElement('span');
+                                    icon.className = 'external-link-icon';
+                                    icon.innerHTML = ' <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 0.2em;"></i>';
+                                    link.appendChild(icon);
+                                }
+                            }
+                        });
+                    }
+                });
+            }
+        });
+    });
+    
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
+});
+</script>
