@@ -49,8 +49,5 @@ redirect_from:
     <a class="quick-link-card" href="{{ '/education/' | relative_url }}">
       <span class="quick-link-title">📖 Educations</span>
     </a>
-    <a class="quick-link-card" href="{{ '/vision/' | relative_url }}">
-      <span class="quick-link-title">🫡 My Vision for Future Research</span>
-    </a>
   </div>
 </div>

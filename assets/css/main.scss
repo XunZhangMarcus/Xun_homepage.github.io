@@ -227,33 +227,6 @@ h1:before, .anchor:before {
         float: none;
         margin-right: 0;
     }
-    .vision-figure {
-        width: 100%;
-        height: auto;
-        float: none;
-        margin-right: 0;
-    }
-    .vision-figure img {
-        height: auto;
-    }
-}
-
-.vision-figure {
-    margin: 1.5rem 0;
-    width: 4cm;
-    height: 4cm;
-    float: left;
-    margin-right: 1.25rem;
-    text-align: left;
-}
-
-.vision-figure img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    border-radius: 1rem;
-    box-shadow: 0 20px 40px -35px rgba(0,0,0,.8);
-    background: #fff;
 }
 
 .page-section {
