@@ -6,8 +6,6 @@ author_profile: false
 header: false
 ---
 
-{% include subpage-hero.html title=page.title excerpt=page.excerpt active="publications" %}
-
 <section class="page-section">
   <div class="content-card">
     <h2>📝 Publications</h2>
