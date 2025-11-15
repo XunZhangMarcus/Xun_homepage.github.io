@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 # 🫡 My Vision for Future Research
-
+<div class="card-panel">
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='images/my vision.png' alt="My Vision" width="80%">
@@ -14,3 +14,4 @@ author_profile: false
   <div class='paper-box-text' markdown="1">
   </div>
 </div> 
+</div>

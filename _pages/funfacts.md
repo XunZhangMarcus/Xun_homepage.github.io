@@ -6,6 +6,8 @@ author_profile: false
 ---
 
 # 🤫 Fun facts about Xun
+<div class="card-panel" markdown="1">
 - If you don't see Xun working in the office, he is probably playing guitar, listening to music, reading books, or playing basketball.
 - Xun was once the guitarist for the band named Vodka-Filled Ashtray.
-- Xun once served as the bass section leader of the GLEAM chorus, where he spent a wonderful time. 
+- Xun once served as the bass section leader of the GLEAM chorus, where he spent a wonderful time.
+</div>
