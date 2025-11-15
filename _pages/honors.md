@@ -7,8 +7,10 @@ author_profile: false
 
 {% include subpage-hero.html title=page.title description=page.excerpt active="honors" %}
 
-## 🎖 Honors and Awards
-<div class="card-panel" markdown="1">
+<section class="page-section">
+  <p class="section-label">Recognitions</p>
+  <div class="content-card" markdown="1">
+  ## 🎖 Honors and Awards
 - *2025* Outstanding Master's Graduates of Tongji University
 - *2024* Outstanding Graduate Student of Tongji University
 - *2024* Graduate National Scholarship
@@ -17,4 +19,5 @@ author_profile: false
 - *2021* National College Students Mathematics Competition, National First Prize **(Top 8%)**
 - *2021* National College Students English Competition, Second Prize **(Top 3%)**
 - *2020* National Undergraduate Mathematical Modeling Competition, Shaanxi Province Second Prize **(Top 20%)**
-</div>
+  </div>
+</section>

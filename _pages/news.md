@@ -7,9 +7,11 @@ author_profile: false
 
 {% include subpage-hero.html title=page.title description=page.excerpt active="news" %}
 
-## 🔥 Latest Updates
-<div class="card-panel">
-<div class="news-timeline">
+<section class="page-section">
+  <p class="section-label">Latest Highlights</p>
+  <div class="content-card">
+    <h2>🔥 Latest Updates</h2>
+    <div class="news-timeline">
   <article class="timeline-item">
     <div class="timeline-date">2025.07</div>
     <p>Our collaborative paper on remote sensing data and carbon sources/sinks was published in Remote Sensing. My <a href="https://doi.org/10.3390/rs17142475">third paper</a> is now online. Click to view.</p>
@@ -43,4 +45,5 @@ author_profile: false
     <p>I participated in the Zhejiang University SDG Global Summer School, where I learned about carbon neutrality and met new friends and researchers!</p>
   </article>
 </div>
-</div>
+  </div>
+</section>
