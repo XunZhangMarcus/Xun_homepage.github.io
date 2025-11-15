@@ -3,6 +3,7 @@ permalink: /vision/
 title: "My Vision for Future Research"
 excerpt: "Future research vision."
 author_profile: false
+header: false
 ---
 
 <section class="page-section">

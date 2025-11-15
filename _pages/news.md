@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 excerpt: "Recent news and updates."
 author_profile: false
+header: false
 ---
 
 <section class="page-section">
