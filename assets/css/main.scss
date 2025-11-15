@@ -261,7 +261,9 @@ h1:before, .anchor:before {
     align-self: flex-start;
     width: 33%;
     min-width: 12rem;
-    max-width: 26rem;
+    max-width: 33%;
+    float: left;
+    margin-right: 1.5rem;
 }
 
 .feature-figure img {
@@ -269,6 +271,15 @@ h1:before, .anchor:before {
     height: auto;
     border-radius: 1rem;
     box-shadow: 0 20px 40px -35px rgba(0,0,0,.8);
+}
+
+@media (max-width: 768px) {
+    .feature-figure {
+        width: 100%;
+        max-width: 100%;
+        float: none;
+        margin-right: 0;
+    }
 }
 
 .page-section {
@@ -284,6 +295,13 @@ h1:before, .anchor:before {
     border: 1px solid rgba(0,0,0,.05);
     padding: 1.5rem;
     box-shadow: 0 25px 40px -35px rgba(10,32,68,.55);
+    position: relative;
+}
+
+.content-card::after {
+    content: "";
+    display: block;
+    clear: both;
 }
 
 .content-grid {
