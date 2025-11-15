@@ -136,6 +136,20 @@ h1:before, .anchor:before {
     gap: 1.25rem;
 }
 
+.subpage-nav-block {
+    display: flex;
+    flex-direction: column;
+    gap: .35rem;
+}
+
+.subpage-nav-label {
+    font-size: .8rem;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: rgba(13,21,39,.65);
+    font-weight: 600;
+}
+
 .hero-panel__body {
     max-width: 48rem;
 }
@@ -243,10 +257,11 @@ h1:before, .anchor:before {
 
 .feature-figure {
     margin: 1.5rem 0;
-    max-width: 26rem;
     text-align: left;
     align-self: flex-start;
-    width: 100%;
+    width: 33%;
+    min-width: 12rem;
+    max-width: 26rem;
 }
 
 .feature-figure img {
@@ -261,14 +276,6 @@ h1:before, .anchor:before {
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-}
-
-.section-label {
-    text-transform: uppercase;
-    letter-spacing: .2em;
-    font-size: .75rem;
-    font-weight: 700;
-    color: rgba(0,0,0,.55);
 }
 
 .content-card {

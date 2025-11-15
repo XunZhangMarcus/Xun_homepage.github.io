@@ -8,7 +8,6 @@ author_profile: false
 {% include subpage-hero.html title=page.title description=page.excerpt active="education" %}
 
 <section class="page-section">
-  <p class="section-label">Academic Path</p>
   <div class="content-card">
     <h2>📖 Educations</h2>
     <div class="education-timeline">

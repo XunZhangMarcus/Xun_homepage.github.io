@@ -8,7 +8,6 @@ author_profile: false
 {% include subpage-hero.html title=page.title description=page.excerpt active="publications" %}
 
 <section class="page-section">
-  <p class="section-label">Journal Articles & Manuscripts</p>
   <div class="content-card">
     <h2>📝 Publications</h2>
     <div class="publication-collection">
@@ -35,7 +34,6 @@ author_profile: false
 </section>
 
 <section class="page-section">
-  <p class="section-label">Conference Presentations</p>
   <div class="content-card">
     <h2>🎤 Conferences</h2>
     <div class="publication-collection">

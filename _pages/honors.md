@@ -8,7 +8,6 @@ author_profile: false
 {% include subpage-hero.html title=page.title description=page.excerpt active="honors" %}
 
 <section class="page-section">
-  <p class="section-label">Recognitions</p>
   <div class="content-card" markdown="1">
   ## 🎖 Honors and Awards
 - *2025* Outstanding Master's Graduates of Tongji University

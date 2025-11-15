@@ -8,7 +8,6 @@ author_profile: false
 {% include subpage-hero.html title=page.title description=page.excerpt active="vision" %}
 
 <section class="page-section">
-  <p class="section-label">Foresight</p>
   <div class="content-card">
     <h2>🫡 My Vision for Future Research</h2>
     <figure class="feature-figure">
