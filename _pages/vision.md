@@ -9,7 +9,7 @@ header: false
 <section class="page-section">
   <div class="content-card">
     <h2>🫡 My Vision for Future Research</h2>
-    <figure class="feature-figure">
+    <figure class="feature-figure vision-figure">
       <img src='{{ "/images/my-vision.png" | relative_url }}' alt="My Vision" loading="lazy">
     </figure>
   </div>
