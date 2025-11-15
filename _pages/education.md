@@ -3,7 +3,6 @@ permalink: /education/
 title: "Educations"
 excerpt: "Education background."
 author_profile: false
-header: false
 ---
 
 <section class="page-section">

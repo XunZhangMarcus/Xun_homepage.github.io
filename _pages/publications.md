@@ -3,7 +3,6 @@ permalink: /publications/
 title: "Publications and Conferences"
 excerpt: "Papers and conference presentations."
 author_profile: false
-header: false
 ---
 
 <section class="page-section">

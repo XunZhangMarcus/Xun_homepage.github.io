@@ -3,7 +3,6 @@ permalink: /honors/
 title: "Honors and Awards"
 excerpt: "Honors and awards received."
 author_profile: false
-header: false
 ---
 
 <section class="page-section">

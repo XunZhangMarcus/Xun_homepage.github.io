@@ -3,7 +3,6 @@ permalink: /hydro90/
 title: "Hydro90"
 excerpt: "Hydro90 community introduction."
 author_profile: false
-header: false
 ---
 
 <section class="page-section">
