@@ -30,23 +30,3 @@ main:
   - key: vision
     title: "My Vision for Future Research"
     url: "/vision/"
-
-explore:
-  - key: news
-    title: "News"
-    url: "/news/"
-  - key: publications
-    title: "Publications and Conferences"
-    url: "/publications/"
-  - key: hydro90
-    title: "Hydro90"
-    url: "/hydro90/"
-  - key: honors
-    title: "Honors and Awards"
-    url: "/honors/"
-  - key: education
-    title: "Educations"
-    url: "/education/"
-  - key: vision
-    title: "My Vision for Future Research"
-    url: "/vision/"

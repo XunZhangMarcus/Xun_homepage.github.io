@@ -5,8 +5,6 @@ excerpt: "Papers and conference presentations."
 author_profile: false
 ---
 
-{% include subpage-hero.html title=page.title description=page.excerpt active="publications" %}
-
 <section class="page-section">
   <div class="content-card">
     <h2>📝 Publications</h2>

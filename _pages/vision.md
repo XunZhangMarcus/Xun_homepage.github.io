@@ -5,8 +5,6 @@ excerpt: "Future research vision."
 author_profile: false
 ---
 
-{% include subpage-hero.html title=page.title description=page.excerpt active="vision" %}
-
 <section class="page-section">
   <div class="content-card">
     <h2>🫡 My Vision for Future Research</h2>

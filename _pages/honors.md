@@ -5,11 +5,9 @@ excerpt: "Honors and awards received."
 author_profile: false
 ---
 
-{% include subpage-hero.html title=page.title description=page.excerpt active="honors" %}
-
 <section class="page-section">
   <div class="content-card" markdown="1">
-  ## 🎖 Honors and Awards
+  ### 🎖 Honors and Awards
 - *2025* Outstanding Master's Graduates of Tongji University
 - *2024* Outstanding Graduate Student of Tongji University
 - *2024* Graduate National Scholarship

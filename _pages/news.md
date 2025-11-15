@@ -5,8 +5,6 @@ excerpt: "Recent news and updates."
 author_profile: false
 ---
 
-{% include subpage-hero.html title=page.title description=page.excerpt active="news" %}
-
 <section class="page-section">
   <div class="content-card">
     <h2>🔥 Latest Updates</h2>
