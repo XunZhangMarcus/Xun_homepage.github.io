@@ -5,6 +5,25 @@ excerpt: "Papers and conference presentations."
 author_profile: false
 header: false
 ---
+Published Journal Paper
+X. Zhang, S. Jiang*, N. Zheng, X. Xia, Z. Li, R. Zhang, X. Wang, Integration of DDPM and ILUES for Simultaneous Identification of Contaminant Source Parameters and Non-Gaussian Channelized Hydraulic Conductivity Field, Water Resources Research, 2024, https://doi.org/10.1029/2023WR036893.
+
+X. Zhang, S. Jiang*, J. Wei, Chao Wu, X. Wang, X. Xia, N. Zheng, J. Xing, Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework, Journal of Hydrology, 2024, https://doi.org/10.1016/j.jhydrol.2024.131540.
+
+M. Guo, N. Zhou*, Y. Cai, X. Wang, X. Zhang, S. Lu, K. Liu, W. Zhao, Quantitative estimation of vegetation carbon source/sink and its response to climate variability and anthropogenic activities in Dongting Lake Wetland, China, Remote Sensing, 2025, https://doi.org/10.3390/rs17142475.
+
+J. Wei, S. Jiang*, Q. Liu, X. Zhang, Toward Closed-Loop Remediation: A Dynamic Optimization Approach for Hydraulic Conductivity Estimation and Pump-and-Treat Design, Accepted by Journal of Contaminant Hydrology, 2025.
+
+Preprint
+X. Zhang, W. Yang, J. Zhang, S. Jiang*, Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty, Geophysical Research Letters, Under Review, 2025, https://arxiv.org/abs/2511.16926.
+
+W. Yang, X. Zhang*, S. Jiang, PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set-Conditioned Diffusion, In preparation for ICML 2026, https://doi.org/10.13140/RG.2.2.23577.68963.
+
+Paper in Progress
+W. Yang, X. Zhang*, S. Jiang, Parameter Estimation of Groundwater PDEs Across Varied Scenarios: A Comparative Evaluation of Diffusion Models and Flow Matching, In preparation for KDD 2026.
+
+B. Zhang, F. Wang*, X. Zhang, From flood to debris flood: Initial and cascading destabilization of sediment as critical mechanisms, Submitted to Journal of Hydrology, 2025.
+
 
 <section class="page-section">
   <div class="content-card">
